@@ -1,0 +1,16 @@
+name: image-env
+
+dependencies:
+  - shapely
+  - pandas
+  - opencv
+  - numpy
+  - matplotlib
+  - geopandas
+  - configparser
+  - pil
+  - textwrap
+  - math
+  - pip
+  - pip:
+    - contextily
