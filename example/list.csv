@@ -1,0 +1,14 @@
+empty;This is a title page with white backround.
+picture1%blur%h1;Meerkat h1 blur
+picture1%blur%h2;Meerkat h2 blur
+picture1%h2%pbl;Meerkat h2 bl
+picture1%h2%ptl;Meerkat h2 tl
+picture1%h2%pbr;Meerkat h2 br
+picture1%h2%ptr;Meerkat h2 tr
+picture1%h3%ptr;Meerkat h3 tr
+picture1;Meerkat normal
+20230903;Cockatiel. Now lots of text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+DSC00183;Vulture. Now lots of text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+DSC00183;Vulture short text.
+%map54.08204183308034,12.136651164230218,1;Map with text at the bottom
+%map60.39648342140555, 5.321100940922891,10%h2%pbl;City of Bergen
